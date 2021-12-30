@@ -1,4 +1,4 @@
-###Fortunes
+### Fortunes
 
 `npm start` in the root directory will run the app.
 
