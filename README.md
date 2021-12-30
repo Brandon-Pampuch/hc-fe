@@ -2,9 +2,9 @@
 
 `npm start` in the root directory will run the app.
 
-Answer to the following questions in a text file (1-3 sentences for each ok, brevity is fine)
 
 How long did you spend on this?
+
 4 or 5 hours. I enjoyed the project. I have been working with pretty defined styling libraries for cash registers the last year. It was fun getting back into raw CSS.
 
 What, if anything, would you change if you had more time to spend on it?
